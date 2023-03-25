@@ -1,0 +1,22 @@
+*{
+    border: box-border;
+    margin: none;
+    padding: none;
+}
+.container4{
+    
+    padding: 10px;
+}
+.mb-1{
+    display: flex;
+}
+.container{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.nav-link{
+    color: blue;
+}
+.btn btn-outline-success{
+color: blue;
+}
